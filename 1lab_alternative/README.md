@@ -67,11 +67,7 @@
 
 ## Как запустить через терминал
 
-Перейдите в папку проекта:
-
-```powershell
-cd C:\Users\edren\Documents\Codex\2026-05-25\etl-etl-extract-transform-load-api
-```
+Перейдите в папку проекта
 
 ### 1. Создать базу данных
 
